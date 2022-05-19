@@ -1,0 +1,46 @@
+.head {
+    text-align: center;
+    
+}
+body {
+ background-color: #F08080;
+}
+.img {
+    
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+	border:10px solid;
+     border: red;
+    background-color: #FFFFFF;
+    height: 100px;
+    -moz-border-radius:75px;
+    -webkit-border-radius: 75px;
+    width: 300px;
+    height: 200px;
+}
+.ook {   display:flex;
+    justify-content: space-around;
+}
+.menu {
+ 
+      width: 200px;
+    border: 3px solid;
+    margin: 0px;
+    padding: 9px;
+}
+.ok {
+border: 3px solid;
+    padding: 3px;
+}
+.bald {
+    border: 3px solid;}
+.obama {
+border: 3px solid;}
+.posts { 
+    height: 300px;}
+.osama {
+border: 3px solid;}
+.olama {border:3px solid;}
+body {font-family: 'Shadows Into Light', cursive;}
